@@ -44,8 +44,7 @@ $ python Plot.py
 ```
 
 ### Results:
-
-https://user-images.githubusercontent.com/29801160/115146812-25e68d80-a026-11eb-8a28-7c8ff3dfc99a.mp4
+![RL_Pong-hevcmp4](https://user-images.githubusercontent.com/29801160/115147220-fa64a280-a027-11eb-9f1e-1484b5daaac5.gif)
 
 ![average_reward_list_cloud (1)](https://user-images.githubusercontent.com/29801160/115146839-4e6e8780-a026-11eb-93e1-e1a0517660b3.png)
 
