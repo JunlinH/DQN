@@ -1,0 +1,7 @@
+gym==0.10.9
+gym[atari]
+tensorflow
+matplotlib
+numpy
+scipy
+opencv-python
