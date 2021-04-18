@@ -46,7 +46,10 @@ $ python Plot.py
 ### Results:
 ![RL_Pong-hevcmp4](https://user-images.githubusercontent.com/29801160/115147220-fa64a280-a027-11eb-9f1e-1484b5daaac5.gif)
 
+
+### Metric:
 ![average_reward_list_cloud (1)](https://user-images.githubusercontent.com/29801160/115146839-4e6e8780-a026-11eb-93e1-e1a0517660b3.png)
+
 
 ### References:
 - [Playing Atari with Deep Reinforcement Learning](https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/1312.5602.pdf%3Fsource%3Dpost_page---------------------------&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=10603651548644623407&ei=pTF8YMT7MovuygSj3pmQBA&scisig=AAGBfm03HCkrreWueYYi3fiB6zZSeGi9Lg)
