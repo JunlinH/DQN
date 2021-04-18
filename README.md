@@ -22,25 +22,25 @@ First of all, install the prerequisites by running:
 ```
 $pip install requirements.txt
 ```
-To train the model, running the file `DQN.py`. You can use the command line:
+To train the model, running the file `dqn.py`. You can use the command line:
 ```
-$ python DQN.py
+$ python dqn.py
 ```
-By default this model is trained on the Atari game Pong. To train with a different Atari game, change the name of game in the main function in `DQN.py`.
+By default this model is trained on the Atari game Pong. To train with a different Atari game, change the name of game in the main function in `dqn.py`.
 ```
 main('Your Game Name Here')
 ```
-If for some reason (loss of Internet connection, etc.), you can run the file `DQN_Reload.py`. This will automatically continues your training from the last automatically saved checkpoint.
+If for some reason (loss of Internet connection, etc.), you can run the file `dqn_reload.py`. This will automatically continues your training from the last automatically saved checkpoint.
 ```
-$ python DQN_Reload.py
+$ python dqn_reload.py
 ```
-To evaluate the performance of the model. Run the file `Model_Evaluate.py`. This will give you the average reward per episode metric value of your model.
+To evaluate the performance of the model. Run the file `model_evaluate.py`. This will give you the average reward per episode metric value of your model.
 ```
-$ python Model_Evaluate.py
+$ python model_evaluate.py
 ```
-To plot the results. Run the file `Plot.py`
+To plot the results. Run the file `plot.py`
 ```
-$ python Plot.py
+$ python plot.py
 ```
 
 ### Results:
