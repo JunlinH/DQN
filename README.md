@@ -30,7 +30,7 @@ By default this model is trained on the Atari game Pong. To train with a differe
 ```
 main('Your Game Name Here')
 ```
-If for some reason (loss of Internet connection, etc.) your training stops without being finished, you can run the file `dqn_reload.py`. This will automatically continues your training from the last automatically saved checkpoint.
+For any reason (loss of Internet connection, etc.) your training stops without being finished, you can run the file `dqn_reload.py`. Your training will continue from the last automatically saved checkpoint.
 ```
 $ python dqn_reload.py
 ```
