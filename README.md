@@ -20,7 +20,7 @@ This project is implemented with TensorFlow 2. Specifically, this project includ
 ### Usage
 First of all, install the prerequisites by running:
 ```
-$pip install requirements.txt
+$pip install -r requirements.txt
 ```
 To train the model, running the file `dqn.py`. You can use the command line:
 ```
